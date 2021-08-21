@@ -1,0 +1,23 @@
+package cucumberTestRunner;
+
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+public class BackgroundRunner {
+	@RunWith(Cucumber.class)
+	@CucumberOptions(
+			features="classpath:features",
+			glue="steps",
+			tags="@scenerio2",
+			monochrome=true,
+			dryRun=false,
+			plugin= {
+					"pretty",
+					"html:target/cucumber",
+					"json:target/cucumber.json"
+				
+			
+			
+}

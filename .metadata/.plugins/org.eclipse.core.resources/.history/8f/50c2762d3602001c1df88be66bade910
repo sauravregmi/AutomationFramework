@@ -1,0 +1,48 @@
+package testNGPage;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.testng.asserts.SoftAssert;
+
+public class ValidateDuplicateCategory {
+WebDriver driver;
+
+public void validateDuplicatedField(WebDriver driver) {
+	this.driver = driver;
+	
+}
+SoftAssert soft = new SoftAssert();
+String actualText = errortext.getText();
+System.out.println("actualText " + actualText);
+soft.assertEquals( actualText,"The category you want to add already exists: TestSubject456.\n"
+		+ "\n"
+	+ "Do you want to update its colour to TestSubject456?\n"
+	+ "\n"
+		+ "Yes or Nevermind");
+
+
+List<String> actualListOfmonth = new ArrayList<String>();
+
+for(int i = 1; i< 13; i++) {
+String actual =driver.findElement(By.xpath("//*[@name='due_month']/option[i]")).getText();
+actualListOfmonth.add(actual);
+
+
+}
+
+List<String> expectedListOfmonth = new ArrayList<String>();
+
+expectedListOfmonth.add("Jan");
+expectedListOfmonth.add("Feb");
+
+
+soft.assertTrue(actualListOfmonth.equals(expectedListOfmonth));
+
+
+}
+
+
+

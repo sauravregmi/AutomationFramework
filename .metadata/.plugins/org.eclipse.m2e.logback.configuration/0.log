@@ -1,0 +1,978 @@
+2021-07-15 18:07:29,239 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-07-21 10:41:27,093 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/pom.xml
+2021-07-21 10:41:27,815 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project:Techfios_Automation_Practical:0.0.1-SNAPSHOT @ /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/pom.xml.
+2021-07-21 10:41:28,063 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Techfios_Automation_Practical/src/main/java
+2021-07-21 10:41:28,066 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Techfios_Automation_Practical/src/test/java
+2021-07-21 10:41:28,100 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2021-07-21 10:41:28,345 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:41:28,345 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:41:28,347 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:41:28,348 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:41:41,880 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:41:41,881 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:41:41,882 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:41:41,882 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:41:50,389 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:41:50,389 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:41:50,390 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:41:50,390 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:50:48,794 [Worker-44: Launching Executing clean in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical
+2021-07-21 10:50:48,797 [Worker-44: Launching Executing clean in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-07-21 10:50:50,344 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:50:50,345 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:50:50,346 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:50:50,346 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:50:55,984 [Worker-51: Launching Executing install in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical
+2021-07-21 10:50:55,984 [Worker-51: Launching Executing install in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-21 10:50:57,892 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:50:57,892 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:50:57,894 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:50:57,894 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:51:17,261 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project:Techfios_Automation_Practical:0.0.1-SNAPSHOT @ /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/pom.xml.
+2021-07-21 10:51:17,419 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+2021-07-21 10:51:17,421 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-jvm:pom:1.2.6 has been relocated to io.cucumber:cucumber-jvm:pom:1.2.6
+2021-07-21 10:51:17,421 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-junit:jar:1.2.6 has been relocated to io.cucumber:cucumber-junit:jar:1.2.6
+2021-07-21 10:51:17,688 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:51:17,688 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:51:17,690 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:51:17,690 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:51:26,261 [Worker-51: Launching Executing clean in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical
+2021-07-21 10:51:26,262 [Worker-51: Launching Executing clean in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-07-21 10:51:27,631 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+2021-07-21 10:51:27,631 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-jvm:pom:1.2.6 has been relocated to io.cucumber:cucumber-jvm:pom:1.2.6
+2021-07-21 10:51:27,632 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-junit:jar:1.2.6 has been relocated to io.cucumber:cucumber-junit:jar:1.2.6
+2021-07-21 10:51:27,642 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:51:27,643 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:51:27,643 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:51:27,644 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:51:32,590 [Worker-45: Launching Executing install in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical
+2021-07-21 10:51:32,590 [Worker-45: Launching Executing install in _Users_saavy_Desktop_Framework_Practical_Techfios_Automation_Practical] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-21 10:51:34,465 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:51:34,466 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:51:34,467 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:51:34,468 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:52:54,689 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:52:54,690 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:52:54,691 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:52:54,691 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 10:53:21,615 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:53:21,615 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 10:53:21,616 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 10:53:21,617 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:34:02,456 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:34:02,456 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:34:02,457 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:34:02,457 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:34:31,432 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:34:31,433 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:34:31,435 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:34:31,435 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:39:28,121 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:39:28,122 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:39:28,123 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:39:28,123 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:39:43,272 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:39:43,272 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:39:43,273 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:39:43,273 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:40:33,891 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:40:33,891 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:40:33,892 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:40:33,892 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:44:36,467 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:44:36,468 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:44:36,469 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:44:36,469 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:44:48,900 [Worker-60: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:44:48,900 [Worker-60: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:44:48,901 [Worker-60: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:44:48,901 [Worker-60: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:49:31,743 [Worker-57: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:49:31,743 [Worker-57: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:49:31,744 [Worker-57: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:49:31,745 [Worker-57: Launching BrowserFactory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:54:26,143 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:54:26,143 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:54:26,145 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:54:26,145 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 16:58:18,150 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:58:18,151 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 16:58:18,152 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 16:58:18,152 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 17:01:46,896 [Worker-64: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 17:01:46,896 [Worker-64: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 17:01:46,898 [Worker-64: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 17:01:46,898 [Worker-64: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-21 17:02:46,093 [Worker-68: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 17:02:46,093 [Worker-68: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-21 17:02:46,094 [Worker-68: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-21 17:02:46,095 [Worker-68: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-23 15:11:17,665 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 15:11:17,665 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-23 15:11:17,666 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 15:11:17,666 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-23 15:37:36,507 [Worker-84: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 15:37:36,507 [Worker-84: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-23 15:37:36,508 [Worker-84: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 15:37:36,508 [Worker-84: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-23 15:41:51,920 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 15:41:51,920 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-23 15:41:51,921 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 15:41:51,921 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-23 16:02:13,199 [Worker-90: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 16:02:13,199 [Worker-90: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-23 16:02:13,200 [Worker-90: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 16:02:13,200 [Worker-90: Launching Junit_TEST] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-23 16:18:40,938 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 16:18:40,938 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-23 16:18:40,939 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-23 16:18:40,939 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:20:38,432 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:20:38,433 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:20:38,434 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:20:38,434 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:20:57,532 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:20:57,533 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:20:57,534 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:20:57,534 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:21:34,933 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:21:34,933 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:21:34,934 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:21:34,934 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:23:32,421 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:23:32,421 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:23:32,422 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:23:32,422 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:24:02,609 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:24:02,609 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:24:02,610 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:24:02,610 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:25:08,429 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:25:08,429 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:25:08,430 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:25:08,430 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:26:02,556 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:26:02,556 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:26:02,557 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:26:02,557 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:40:53,407 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:40:53,407 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:40:53,408 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:40:53,408 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:41:17,381 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:41:17,381 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:41:17,382 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:41:17,383 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:42:01,029 [Worker-113: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:42:01,030 [Worker-113: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:42:01,030 [Worker-113: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:42:01,031 [Worker-113: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:43:24,840 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:43:24,840 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:43:24,840 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:43:24,840 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:45:14,455 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:45:14,455 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:45:14,456 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:45:14,456 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:51:16,969 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:51:16,970 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:51:16,970 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:51:16,970 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:52:06,650 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:52:06,651 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:52:06,651 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:52:06,652 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:53:26,294 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:53:26,295 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:53:26,296 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:53:26,296 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-24 00:59:13,605 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:59:13,606 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-24 00:59:13,607 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 00:59:13,607 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-26 01:47:27,908 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-26 01:47:27,909 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-26 01:47:27,910 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-26 01:47:27,910 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-28 15:47:20,775 [Worker-137: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:47:20,776 [Worker-137: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-28 15:47:20,777 [Worker-137: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:47:20,777 [Worker-137: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-28 15:48:13,389 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:13,389 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-28 15:48:13,391 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:13,391 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-28 15:49:38,007 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:49:38,008 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-28 15:49:38,009 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:49:38,009 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-28 23:42:58,493 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 23:42:58,494 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-28 23:42:58,494 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 23:42:58,495 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-30 09:37:08,089 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-30 09:37:08,089 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-30 09:37:08,090 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-30 09:37:08,090 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-30 09:38:40,838 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-30 09:38:40,838 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-30 09:38:40,839 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-30 09:38:40,839 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-07-30 09:41:16,811 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-30 09:41:16,811 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-07-30 09:41:16,812 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-30 09:41:16,813 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-02 03:17:25,699 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-02 03:17:25,700 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-02 03:17:25,701 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-02 03:17:25,701 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-02 03:17:32,700 [Worker-158: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-02 03:17:32,700 [Worker-158: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-02 03:17:32,700 [Worker-158: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-02 03:17:32,701 [Worker-158: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:16:56,568 [Worker-172: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:16:56,569 [Worker-172: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:16:56,570 [Worker-172: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:16:56,570 [Worker-172: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:23:52,429 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:23:52,429 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:23:52,430 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:23:52,430 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:26:47,498 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:26:47,498 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:26:47,499 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:26:47,499 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:27:49,278 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:27:49,278 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:27:49,279 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:27:49,279 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:33:40,053 [Worker-180: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:33:40,053 [Worker-180: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:33:40,054 [Worker-180: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:33:40,054 [Worker-180: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:47:04,603 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:47:04,603 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:47:04,604 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:47:04,604 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:47:18,757 [Worker-178: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:47:18,758 [Worker-178: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:47:18,759 [Worker-178: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:47:18,759 [Worker-178: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:48:57,996 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:48:57,996 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:48:57,997 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:48:57,998 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:49:44,481 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:49:44,482 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:49:44,483 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:49:44,483 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:52:13,107 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:52:13,108 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:52:13,108 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:52:13,108 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:53:06,043 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:53:06,043 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:53:06,044 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:53:06,044 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:53:09,902 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:53:09,902 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:53:09,903 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:53:09,903 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:54:55,815 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:54:55,816 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:54:55,817 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:54:55,817 [Worker-183: Launching ToggleAllChecked] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 22:56:03,453 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:56:03,454 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 22:56:03,454 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 22:56:03,454 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:06:01,309 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:06:01,309 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:06:01,310 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:06:01,310 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:35:07,596 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:35:07,597 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:35:07,598 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:35:07,598 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:36:52,747 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:36:52,747 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:36:52,748 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:36:52,748 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:36:56,795 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:36:56,795 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:36:56,796 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:36:56,796 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:38:59,237 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:38:59,237 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:38:59,238 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:38:59,238 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:39:49,918 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:39:49,919 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:39:49,919 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:39:49,919 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:42:16,178 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:42:16,179 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:42:16,180 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:42:16,180 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-04 23:45:26,189 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:45:26,190 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-04 23:45:26,191 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 23:45:26,191 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 00:54:14,632 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 00:54:14,632 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 00:54:14,633 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 00:54:14,633 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:08:07,088 [Worker-196: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TF:BDD_Assignment:0.0.1-SNAPSHOT @ /Users/saavy/Desktop/BDD_Assignment/pom.xml.
+2021-08-05 01:08:07,335 [Worker-196: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+2021-08-05 01:08:07,336 [Worker-196: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-jvm:pom:1.2.6 has been relocated to io.cucumber:cucumber-jvm:pom:1.2.6
+2021-08-05 01:08:07,337 [Worker-196: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-junit:jar:1.2.6 has been relocated to io.cucumber:cucumber-junit:jar:1.2.6
+2021-08-05 01:08:07,482 [Worker-196: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BDD_Assignment/src/main/java
+2021-08-05 01:08:07,483 [Worker-196: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BDD_Assignment/src/test/java
+2021-08-05 01:08:07,514 [Worker-196: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-08-05 01:08:07,811 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+2021-08-05 01:08:07,811 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-jvm:pom:1.2.6 has been relocated to io.cucumber:cucumber-jvm:pom:1.2.6
+2021-08-05 01:08:07,812 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-junit:jar:1.2.6 has been relocated to io.cucumber:cucumber-junit:jar:1.2.6
+2021-08-05 01:08:07,819 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:08:07,819 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/BDD_Assignment/src/main/resources
+2021-08-05 01:08:07,820 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:08:07,820 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/BDD_Assignment/src/test/resources
+2021-08-05 01:13:22,114 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:13:22,115 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:13:22,115 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:13:22,115 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:16:39,655 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:16:39,655 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:16:39,656 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:16:39,656 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:18:59,959 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:18:59,959 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:18:59,959 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:18:59,960 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:20:48,868 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:20:48,868 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:20:48,868 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:20:48,868 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:21:16,677 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:21:16,678 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:21:16,678 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:21:16,678 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:22:11,543 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:22:11,543 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:22:11,544 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:22:11,544 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:22:25,836 [Worker-205: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:22:25,836 [Worker-205: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:22:25,837 [Worker-205: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:22:25,837 [Worker-205: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:30:23,713 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:30:23,714 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:30:23,714 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:30:23,714 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:32:47,406 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:32:47,406 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:32:47,407 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:32:47,407 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:32:51,261 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:32:51,262 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:32:51,262 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:32:51,262 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:33:06,486 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:33:06,486 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:33:06,487 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:33:06,487 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:33:33,834 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:33:33,834 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:33:33,834 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:33:33,834 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:35:03,612 [Worker-217: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:35:03,612 [Worker-217: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:35:03,612 [Worker-217: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:35:03,613 [Worker-217: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:45:27,920 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:45:27,921 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:45:27,922 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:45:27,922 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:46:06,048 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:46:06,048 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:46:06,049 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:46:06,049 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:47:37,710 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:47:37,710 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:47:37,711 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:47:37,711 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:49:19,237 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:49:19,238 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:49:19,238 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:49:19,238 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:49:41,007 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:49:41,008 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:49:41,008 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:49:41,008 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:49:47,499 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:49:47,499 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:49:47,500 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:49:47,500 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:54:30,989 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:54:30,989 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:54:30,989 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:54:30,989 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 01:54:45,982 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:54:45,982 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 01:54:45,983 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 01:54:45,983 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:50:21,534 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:50:21,534 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:50:21,535 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:50:21,535 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:51:24,298 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:51:24,298 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:51:24,298 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:51:24,298 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:51:41,713 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:51:41,713 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:51:41,714 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:51:41,714 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:51:45,588 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:51:45,588 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:51:45,589 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:51:45,589 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:55:33,281 [Worker-239: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:55:33,281 [Worker-239: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:55:33,282 [Worker-239: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:55:33,282 [Worker-239: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:56:01,006 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:56:01,007 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:56:01,008 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:56:01,008 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:58:51,877 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:58:51,878 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:58:51,878 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:58:51,878 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 02:58:57,828 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:58:57,828 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 02:58:57,828 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 02:58:57,828 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 03:01:19,349 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:01:19,349 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 03:01:19,350 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:01:19,350 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 03:01:45,060 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:01:45,060 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 03:01:45,060 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:01:45,060 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 03:01:53,180 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:01:53,180 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 03:01:53,180 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:01:53,180 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-05 03:03:57,278 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:03:57,278 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-05 03:03:57,279 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 03:03:57,279 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-10 02:37:10,227 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 02:37:10,228 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-10 02:37:10,228 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 02:37:10,229 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 09:18:15,186 [Worker-278: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:18:15,188 [Worker-278: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 09:18:15,188 [Worker-278: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:18:15,188 [Worker-278: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 09:20:11,640 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:20:11,641 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 09:20:11,641 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:20:11,641 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 09:20:20,958 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:20:20,958 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 09:20:20,959 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:20:20,959 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 09:52:09,043 [Worker-289: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:52:09,044 [Worker-289: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 09:52:09,044 [Worker-289: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:52:09,044 [Worker-289: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 09:55:32,938 [Worker-294: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:55:32,939 [Worker-294: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 09:55:32,939 [Worker-294: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:55:32,939 [Worker-294: Launching ValidateDuplicateCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 09:56:19,983 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:56:19,983 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 09:56:19,984 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:56:19,984 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 09:56:36,904 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:56:36,904 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 09:56:36,904 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 09:56:36,904 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:22:53,278 [Worker-304: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:22:53,281 [Worker-304: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:22:53,281 [Worker-304: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:22:53,282 [Worker-304: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:47:00,128 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:47:00,129 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:47:00,130 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:47:00,130 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:47:13,354 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:47:13,355 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:47:13,356 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:47:13,356 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:48:09,708 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:48:09,708 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:48:09,708 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:48:09,709 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:48:18,459 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:48:18,459 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:48:18,459 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:48:18,459 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:49:38,821 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:49:38,821 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:49:38,822 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:49:38,822 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:49:52,048 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:49:52,048 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:49:52,048 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:49:52,048 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 17:50:42,153 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:50:42,153 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 17:50:42,155 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 17:50:42,155 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:04:44,073 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:04:44,073 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:04:44,073 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:04:44,073 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:06:19,525 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:06:19,526 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:06:19,527 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:06:19,527 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:10:59,156 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:10:59,157 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:10:59,158 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:10:59,158 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:11:17,190 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:11:17,190 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:11:17,191 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:11:17,191 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:17:33,921 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:17:33,921 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:17:33,922 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:17:33,922 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:18:26,076 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:18:26,077 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:18:26,077 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:18:26,077 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:18:35,506 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:18:35,507 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:18:35,507 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:18:35,507 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:18:43,122 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:18:43,122 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:18:43,123 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:18:43,123 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:21:35,974 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:21:35,975 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:21:35,976 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:21:35,976 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:22:59,530 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:22:59,531 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:22:59,531 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:22:59,531 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:24:08,183 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:24:08,183 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:24:08,183 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:24:08,183 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:25:57,317 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:25:57,317 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:25:57,318 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:25:57,318 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:28:25,731 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:28:25,731 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:28:25,731 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:28:25,731 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:29:20,570 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:29:20,570 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:29:20,570 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:29:20,570 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:29:29,532 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:29:29,532 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:29:29,533 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:29:29,533 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:31:03,635 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:31:03,635 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:31:03,635 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:31:03,635 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:31:13,428 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:31:13,429 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:31:13,429 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:31:13,429 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:32:26,661 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:32:26,661 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:32:26,661 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:32:26,661 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:35:24,132 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:35:24,133 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:35:24,133 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:35:24,133 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:37:04,887 [Worker-326: Launching AddCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:37:04,887 [Worker-326: Launching AddCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:37:04,888 [Worker-326: Launching AddCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:37:04,888 [Worker-326: Launching AddCategory] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:39:03,824 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:39:03,824 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:39:03,824 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:39:03,824 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:39:46,794 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:39:46,795 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:39:46,796 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:39:46,796 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:40:46,644 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:40:46,645 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:40:46,645 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:40:46,645 [Worker-329: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:43:26,114 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:43:26,114 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:43:26,115 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:43:26,115 [Worker-332: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:44:10,027 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:44:10,027 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:44:10,028 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:44:10,028 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:46:30,865 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:46:30,866 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:46:30,867 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:46:30,867 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:48:06,933 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:48:06,934 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:48:06,934 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:48:06,934 [Worker-335: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:51:02,324 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:51:02,325 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:51:02,326 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:51:02,326 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:53:07,242 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:53:07,243 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:53:07,243 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:53:07,243 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 18:57:40,687 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:57:40,688 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 18:57:40,688 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 18:57:40,688 [Worker-341: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:18:23,711 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:18:23,712 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:18:23,712 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:18:23,712 [Worker-346: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:26:44,202 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:26:44,203 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:26:44,203 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:26:44,203 [Worker-347: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:26:50,864 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:26:50,865 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:26:50,865 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:26:50,865 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:27:35,984 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:27:35,984 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:27:35,984 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:27:35,984 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:27:54,132 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:27:54,132 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:27:54,132 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:27:54,132 [Worker-352: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:28:37,592 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:28:37,592 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:28:37,593 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:28:37,593 [Worker-349: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:35:06,166 [Worker-353: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:35:06,166 [Worker-353: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:35:06,166 [Worker-353: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:35:06,167 [Worker-353: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:48:25,344 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:48:25,345 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:48:25,345 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:48:25,345 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:48:36,459 [Worker-382: Launching CategoryField] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Project:Techfios_Automation_Practical:0.0.1-SNAPSHOT @ /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/pom.xml.
+2021-08-17 19:48:36,580 [Worker-382: Launching CategoryField] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+2021-08-17 19:48:36,580 [Worker-382: Launching CategoryField] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-jvm:pom:1.2.6 has been relocated to io.cucumber:cucumber-jvm:pom:1.2.6
+2021-08-17 19:48:36,581 [Worker-382: Launching CategoryField] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-junit:jar:1.2.6 has been relocated to io.cucumber:cucumber-junit:jar:1.2.6
+2021-08-17 19:48:36,713 [Worker-382: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:48:36,713 [Worker-382: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:48:36,713 [Worker-382: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:48:36,714 [Worker-382: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:48:36,944 [Worker-382: Launching CategoryField] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+2021-08-17 19:48:36,945 [Worker-382: Launching CategoryField] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-jvm:pom:1.2.6 has been relocated to io.cucumber:cucumber-jvm:pom:1.2.6
+2021-08-17 19:48:36,946 [Worker-382: Launching CategoryField] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-junit:jar:1.2.6 has been relocated to io.cucumber:cucumber-junit:jar:1.2.6
+2021-08-17 19:49:45,913 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:49:45,913 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:49:45,913 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:49:45,914 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:50:12,068 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:50:12,069 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:50:12,069 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:50:12,069 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:50:17,053 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:50:17,053 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:50:17,054 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:50:17,054 [Worker-380: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:51:36,367 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:51:36,368 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:51:36,368 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:51:36,368 [Worker-383: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-17 19:52:00,239 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:52:00,239 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-17 19:52:00,239 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-17 19:52:00,239 [Worker-384: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:12:29,471 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:12:29,472 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:12:29,473 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:12:29,473 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:13:45,716 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:13:45,717 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:13:45,717 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:13:45,717 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:16:09,375 [Worker-385: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:16:09,375 [Worker-385: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:16:09,376 [Worker-385: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:16:09,377 [Worker-385: Launching CategoryField] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:17:25,406 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:17:25,406 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:17:25,407 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:17:25,407 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:17:38,623 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:17:38,623 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:17:38,623 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:17:38,623 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:18:33,099 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:18:33,099 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:18:33,099 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:18:33,099 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:18:45,431 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:18:45,431 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:18:45,432 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:18:45,432 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:18:59,503 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:18:59,503 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:18:59,505 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:18:59,505 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:19:11,371 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:19:11,371 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:19:11,371 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:19:11,372 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:19:20,679 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:19:20,679 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:19:20,679 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:19:20,679 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:20:19,472 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:20:19,472 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:20:19,473 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:20:19,473 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:20:25,800 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:20:25,800 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:20:25,800 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:20:25,800 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:20:41,257 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:20:41,257 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:20:41,258 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:20:41,258 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:21:32,865 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:21:32,865 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:21:32,865 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:21:32,865 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:21:53,308 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:21:53,308 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:21:53,308 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:21:53,308 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:29:52,385 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:29:52,385 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:29:52,386 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:29:52,386 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:30:02,945 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:30:02,945 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:30:02,946 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:30:02,946 [Worker-390: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:30:09,792 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:30:09,793 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:30:09,793 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:30:09,793 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:31:52,148 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:31:52,149 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:31:52,149 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:31:52,149 [Worker-385: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:31:58,158 [Worker-391: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:31:58,158 [Worker-391: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:31:58,158 [Worker-391: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:31:58,158 [Worker-391: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:32:38,305 [Worker-385: Launching LoginRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:32:38,305 [Worker-385: Launching LoginRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/BDD_Assignment/src/main/resources
+2021-08-20 23:32:38,306 [Worker-385: Launching LoginRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:32:38,306 [Worker-385: Launching LoginRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/BDD_Assignment/src/test/resources
+2021-08-20 23:35:20,816 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:35:20,817 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:35:20,817 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:35:20,817 [Worker-388: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:40:24,587 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:40:24,588 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:40:24,588 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:40:24,589 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:41:19,101 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:41:19,101 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:41:19,101 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:41:19,101 [Worker-392: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:42:09,223 [Worker-393: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:42:09,223 [Worker-393: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:42:09,224 [Worker-393: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:42:09,224 [Worker-393: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:46:22,568 [Worker-396: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:46:22,568 [Worker-396: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:46:22,569 [Worker-396: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:46:22,569 [Worker-396: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:55:58,571 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:55:58,571 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:55:58,572 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:55:58,572 [Worker-397: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:56:41,469 [Worker-398: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:56:41,469 [Worker-398: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:56:41,470 [Worker-398: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:56:41,470 [Worker-398: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-20 23:58:01,216 [Worker-400: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:58:01,216 [Worker-400: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-20 23:58:01,217 [Worker-400: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-20 23:58:01,217 [Worker-400: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:00:14,738 [Worker-403: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LoginRunner references non-existing project BDD_Assignment.
+org.eclipse.core.runtime.CoreException: Launch configuration LoginRunner references non-existing project BDD_Assignment.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:59)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:46)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:130)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-21 00:00:14,742 [Worker-403: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LoginRunner references non-existing project BDD_Assignment.
+org.eclipse.core.runtime.CoreException: Launch configuration LoginRunner references non-existing project BDD_Assignment.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:59)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:46)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:130)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-21 00:00:14,745 [Worker-403: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LoginRunner references non-existing project BDD_Assignment.
+org.eclipse.core.runtime.CoreException: Launch configuration LoginRunner references non-existing project BDD_Assignment.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:59)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:46)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2128)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:376)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:130)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-21 00:11:39,652 [Worker-403: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:11:39,653 [Worker-403: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:11:39,653 [Worker-403: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:11:39,654 [Worker-403: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:12:06,581 [Worker-408: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:12:06,581 [Worker-408: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:12:06,581 [Worker-408: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:12:06,581 [Worker-408: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:14:42,414 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:14:42,414 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:14:42,414 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:14:42,414 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:20:39,946 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:20:39,946 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:20:39,947 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:20:39,947 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:21:06,781 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:21:06,781 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:21:06,782 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:21:06,782 [Worker-411: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:21:26,024 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:21:26,024 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:21:26,024 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:21:26,024 [Worker-413: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:22:12,058 [Worker-413: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:22:12,058 [Worker-413: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:22:12,059 [Worker-413: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:22:12,059 [Worker-413: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:24:39,583 [Worker-416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:24:39,583 [Worker-416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:24:39,584 [Worker-416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:24:39,584 [Worker-416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:28:43,581 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:28:43,581 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:28:43,581 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:28:43,581 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:28:49,237 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:28:49,237 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:28:49,238 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:28:49,238 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:33:00,714 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:33:00,715 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:33:00,716 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:33:00,716 [Worker-419: Launching BackgroundRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:45:54,542 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:45:54,543 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:45:54,543 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:45:54,544 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:45:57,811 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:45:57,811 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:45:57,811 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:45:57,811 [Worker-418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:51:57,577 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:51:57,577 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:51:57,578 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:51:57,578 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:57:59,729 [Worker-434: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:57:59,729 [Worker-434: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:57:59,730 [Worker-434: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:57:59,730 [Worker-434: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 00:58:40,087 [Worker-431: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:58:40,087 [Worker-431: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 00:58:40,088 [Worker-431: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 00:58:40,088 [Worker-431: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 01:07:24,205 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 01:07:24,206 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 01:07:24,206 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 01:07:24,206 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources
+2021-08-21 01:08:32,481 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 01:08:32,481 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/main/resources
+2021-08-21 01:08:32,481 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-21 01:08:32,481 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/saavy/Desktop/Framework_Practical/Techfios_Automation_Practical/src/test/resources

@@ -1,0 +1,27 @@
+package testNGPage;
+
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.testng.annotations.Test;
+
+public class ValidateDuplicateCategory {
+WebDriver driver;
+
+public void validateDuplicatedField(WebDriver driver) {
+	this.driver = driver;
+	
+}
+
+@FindBy(how = How.CSS, using = "select[name='category']") List<WebElement> listCategory;
+@Test
+public void validateDuplicateCategoryOption() {
+
+	System.out.println(listCategory);
+}
+
+
+}

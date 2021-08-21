@@ -1,0 +1,7 @@
+package cucumberTestStep;
+
+import org.openqa.selenium.WebDriver;
+
+public class BackgroundStepDef {
+	WebDriver driver;
+}

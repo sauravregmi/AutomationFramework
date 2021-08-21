@@ -1,0 +1,72 @@
+package testNGPage;
+
+import static org.testng.Assert.assertEquals;
+
+import java.io.IOException;
+import java.util.Random;
+import java.util.Set;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.testng.asserts.SoftAssert;
+
+public class AddCategory {
+WebDriver driver;
+
+Random rnd = new Random();
+int randomNum = rnd.nextInt(999);
+
+SoftAssert softAssert = new SoftAssert();
+	
+	public void addCategory(WebDriver driver) {
+		this.driver = driver;
+		
+	}
+	@FindBy(how = How.NAME, using = "categorydata") WebElement inputCategory;
+	@FindBy(how = How.CSS, using = "input[value='Add category']") WebElement clickAddCategory;
+	
+	@FindBy(xpath = "//*[@name='categorydata']")
+	WebElement categoryData;
+	@FindBy(xpath = "//*[@value='Add category']")
+	WebElement addCategoryButton;
+	@FindBy(xpath = "//body")
+	WebElement errortext;
+	
+	
+	
+	
+	
+	public void clickToAddCategory() throws IOException {
+		
+		
+//		inputCategory.sendKeys("TestSubject"+ randomNum);
+//		clickAddCategory.click();
+		
+		categoryData.sendKeys("TestSubject456");
+		addCategoryButton.click();
+		
+	String oldWindow =	driver.getWindowHandle();
+		categoryData.sendKeys("TestSubject456");
+		addCategoryButton.click();
+		
+		Set<String> newWindows = driver.getWindowHandles();
+		
+		newWindows.remove(oldWindow);
+		
+		driver.switchTo().window(newWindows.iterator().next());
+		
+		
+		softAssert.assert(errortext.getText(), "The category you want to add already exists:");
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

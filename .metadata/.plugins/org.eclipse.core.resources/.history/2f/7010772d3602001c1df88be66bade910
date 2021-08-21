@@ -1,0 +1,17 @@
+package testNGPage;
+
+import org.openqa.selenium.WebDriver;
+
+public class ValidateDuplicateCategory {
+WebDriver driver;
+
+public void validateDuplicatedField(WebDriver driver) {
+	this.driver = driver;
+	
+}
+
+
+}
+
+
+

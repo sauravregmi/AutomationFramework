@@ -1,0 +1,28 @@
+package cucumberPage;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+
+public class BackgroundColor {
+	WebDriver driver;
+	
+	public BackgroundColor(WebDriver driver) {
+		this.driver = driver;
+	}
+	@FindBy(how =How.XPATH, using = "//*[@name='colour']/following-sibling::button[1]")
+	WebElement changeToSkyblue;
+	@FindBy(how =How.XPATH, using = "//*[@name='colour']/following-sibling::button[2]")
+	WebElement changeToWhite;
+	
+	
+	public void SkyBlueBackgound(){
+		changeToSkyblue.click();
+		
+	}
+	public void WhiteBackgound(){
+		changeToWhite.click();
+		
+	}
+}

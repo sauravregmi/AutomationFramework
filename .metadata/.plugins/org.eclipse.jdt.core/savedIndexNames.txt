@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+/Users/saavy/Desktop/Framework_Practical/.metadata/.plugins/org.eclipse.jdt.core
+3349449359.index
+1342620181.index
+1488708657.index
+2488679512.index
+3304478156.index
+3014319603.index
+3408216962.index
+2768333218.index
+2242939074.index
+3818310502.index
+512471106.index
+3824701589.index
+3677625811.index
+3740335556.index
